@@ -25,6 +25,7 @@ Validar los datos ingresados: número de tarjeta y pin
 Mostrar un menu de opciones del cajero automático
 
 ° Salida
-
 Diseñar interfaz...
+
+![](https://github.com/garciaamonet/T3A5-1/blob/main/CUENTA.png)
 
