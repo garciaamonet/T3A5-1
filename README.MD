@@ -14,7 +14,7 @@ Seguro
 Créditos
 Salir
 
-##Etapa 2 Diseño de la solución
+##Etapa 2 Diseño de la solució
 Entrada 
   String numeroTarjeta
   Int pin
