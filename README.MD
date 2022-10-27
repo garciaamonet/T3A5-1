@@ -1,6 +1,6 @@
 T3A5
 
-##Etapa 1. Descripción del problema   
+## Etapa 1. Descripción del problema   
 Desarrolla una aplicación de cajero automático en Java en la cual se muestra un menú  para seleccionar la operación requerida por el usuario:
 
 -El usuario debe ingresar su tarjeta (número y NIP) para ingresar al  menú principal, en caso de que no coincida con sus datos, entonces deberá mostrar una alerta donde el indique que sus datos son errón.
@@ -14,7 +14,7 @@ Seguro
 Créditos
 Salir
 
-##Etapa 2 Diseño de la solució
+## Etapa 2 Diseño de la solució
 Entrada 
   String numeroTarjeta
   Int pin
@@ -29,4 +29,5 @@ Mostrar un menu de opciones del cajero automático
 Diseñar interfaz...
 
 ![](https://github.com/garciaamonet/T3A5-1/blob/main/CUENTA.png)
-
+## Etapa 3 Código  de NetBeans
+! [] (https://github.com/garciaamonet/T3A5-1/blob/main/T3A05.zip)
